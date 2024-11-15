@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /contact/
-
-Sitemap: https://auroresem.github.io/ToyStore/sitemap.xml
